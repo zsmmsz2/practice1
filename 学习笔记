@@ -1,9 +1,11 @@
-一.下载并配置git
-Git config --global user.name "your name"
-Git config --global user.email ""
+1.15
+一.安装IDEA并成功配置jdk
 
 
-1.常用指令
+二.下载并配置git
+
+了解到git常用指令
+
 cd ..回退 cd <> 跳转
 History 查看历史指令
 Clear 清屏
@@ -14,5 +16,6 @@ Mv <> <> 把某文件移动到某文件夹
 Rm <> 删除文件
 Rm -r <> 删除文件夹
 pwd 查看当前路径
-二.安装IDEA并成功配置jdk
+
 三.
+安装了MYSQL
