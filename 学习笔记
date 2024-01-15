@@ -1,0 +1,16 @@
+一.下载并配置git
+Git config --global user.name "your name"
+Git config --global user.email ""
+
+
+1.常用指令
+cd ..回退 cd <> 跳转
+History 查看历史指令
+Clear 清屏
+Ls 查看目录所有文件
+Touch <> 创建一个文件
+Mkdir <> 创建一个文件夹
+Mv <> <> 把某文件移动到某文件夹
+Rm <> 删除文件
+Rm -r <> 删除文件夹
+pwd 查看当前路径
